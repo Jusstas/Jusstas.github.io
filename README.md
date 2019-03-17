@@ -1,2 +1,3 @@
 # Jusstas.github.io
-Personal GitHub page
+Personal GitHub page.
+So nothing interesting...
